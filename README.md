@@ -1,5 +1,5 @@
 # Databricks_SQL
-Uso de la herramienta web Databricks para realizar un analisis en SQL
+Uso de la herramienta web Databricks para realizar un análisis en SQL. Esta herramienta permite procesar grandes cantidades de datos en la nube.
 
 <h3 align="left">Para ver mi trabajo has clic en la imagen:</h3>
 <p align="left">
